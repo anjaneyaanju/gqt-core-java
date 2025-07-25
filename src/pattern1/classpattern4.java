@@ -1,5 +1,5 @@
 
-package pattern4;
+package pattern1;
 
 import java.util.Scanner;
 

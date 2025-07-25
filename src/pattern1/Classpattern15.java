@@ -1,9 +1,9 @@
 
-package pattern15;
+package pattern1;
 
 import java.util.Scanner;
 
-public class classpattern15 {
+public class Classpattern15 {
 
 	public static void main(String[] args) {
 		

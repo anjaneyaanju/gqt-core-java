@@ -1,9 +1,9 @@
 
-package pattern7;
+package pattern1;
 
 import java.util.Scanner;
 
-public class classpattern7 {
+public class classpattern6{
 
 	
 	public static void main(String[] args) {
@@ -11,8 +11,10 @@ public class classpattern7 {
 		System.out.println("ENTER THE count");
 		int n=sc.nextInt();
 		for(int i=1;i<n;i++){
-		System.out.print(i+" ");
+		System.out.print("1");
+
+	
 		}
-	}
+		}
 
 }
